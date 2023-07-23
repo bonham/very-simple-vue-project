@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    /* other configs */
+    "module": "es2022",
+    "moduleResolution": "Node",
     "paths": {
       "@/*": [
         "./src/*" // set path `@/*` as alias of `src/*`
